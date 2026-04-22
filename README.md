@@ -37,7 +37,7 @@ QuickGlance helps you remember what you learn using the **SM-2 spaced repetition
     <td><sub>Deck List</sub></td>
     <td><sub>Study View</sub></td>
     <td><sub>Statistics</sub></td>
-    <td><sub>Widget</sub></td>
+    <td><sub>Splash</sub></td>
   </tr>
 </table>
 
