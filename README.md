@@ -24,15 +24,22 @@ QuickGlance helps you remember what you learn using the **SM-2 spaced repetition
 
 ## 📱 Screenshots
 
-<p align="center">
-  <img width="1320" height="2868" alt="onboarding" src="https://github.com/user-attachments/assets/d61a5440-32f8-41c1-a5db-990730802633" />
-  <img width="1320" height="2868" alt="decklist" src="https://github.com/user-attachments/assets/0424ddb5-38f6-4cf8-ae93-3a5952b17680" />
-  <img width="1320" height="2868" alt="stats" src="https://github.com/user-attachments/assets/1c766867-450e-449d-b019-ba1ba8331d01" />
-  <img width="1320" height="2868" alt="study" src="https://github.com/user-attachments/assets/ad00ee0e-d06a-4b57-b0a9-83f96f465232" />
-  <img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-04-19 at 19 09 40" src="https://github.com/user-attachments/assets/4b8d1856-bf66-41ec-a827-be366716ad81" />
-</p>
-
----
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d61a5440-32f8-41c1-a5db-990730802633" alt="Onboarding" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/0424ddb5-38f6-4cf8-ae93-3a5952b17680" alt="Deck List" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/ad00ee0e-d06a-4b57-b0a9-83f96f465232" alt="Study View" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/1c766867-450e-449d-b019-ba1ba8331d01" alt="Statistics" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/4b8d1856-bf66-41ec-a827-be366716ad81" alt="Home Screen Widget" width="200" /></td>
+  </tr>
+  <tr align="center">
+    <td><sub>Onboarding</sub></td>
+    <td><sub>Deck List</sub></td>
+    <td><sub>Study View</sub></td>
+    <td><sub>Statistics</sub></td>
+    <td><sub>Widget</sub></td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 
